@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="ce99086297c6311053f8b5a6f053af9e" sys_domain="global" table="x_1129749_leave_ma_leave_calculator" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>leave_assignment</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 10:17:27</sys_created_on>
+            <sys_id>946724ba9706311053f8b5a6f053af9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1129749_leave_ma_leave_calculator" sys_domain="global" view="Default view">ce99086297c6311053f8b5a6f053af9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 10:17:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>starting_month</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 10:17:27</sys_created_on>
+            <sys_id>1c6724ba9706311053f8b5a6f053af9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1129749_leave_ma_leave_calculator" sys_domain="global" view="Default view">ce99086297c6311053f8b5a6f053af9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 10:17:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_month</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 10:17:27</sys_created_on>
+            <sys_id>9c6724ba9706311053f8b5a6f053af9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1129749_leave_ma_leave_calculator" sys_domain="global" view="Default view">ce99086297c6311053f8b5a6f053af9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 10:17:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 10:17:27</sys_created_on>
+            <sys_id>106724ba9706311053f8b5a6f053af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1129749_leave_ma_leave_calculator" sys_domain="global" view="Default view">ce99086297c6311053f8b5a6f053af9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 10:17:27</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>leave_type</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 10:17:27</sys_created_on>
+            <sys_id>906724ba9706311053f8b5a6f053af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1129749_leave_ma_leave_calculator" sys_domain="global" view="Default view">ce99086297c6311053f8b5a6f053af9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 10:17:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>leaves</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 10:17:27</sys_created_on>
+            <sys_id>146724ba9706311053f8b5a6f053af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1129749_leave_ma_leave_calculator" sys_domain="global" view="Default view">ce99086297c6311053f8b5a6f053af9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 10:17:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-26 10:17:27</sys_created_on>
+            <sys_id>946724ba9706311053f8b5a6f053af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1129749_leave_ma_leave_calculator" sys_domain="global" view="Default view">ce99086297c6311053f8b5a6f053af9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-26 10:17:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1129749_leave_ma_leave_calculator</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-25 13:28:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce99086297c6311053f8b5a6f053af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1129749_leave_ma_leave_calculator</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Leave Management Application" source="x_1129749_leave_ma">e14cd7d69706311053f8b5a6f053af09</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Management Application">e14cd7d69706311053f8b5a6f053af09</sys_scope>
+            <sys_update_name>sys_ui_section_ce99086297c6311053f8b5a6f053af9e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-25 13:28:50</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
